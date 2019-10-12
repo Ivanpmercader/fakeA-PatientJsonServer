@@ -1,0 +1,27 @@
+{
+    "Body": {
+      "patients": [
+        { "CIP_SNS": "BBBBB12345", "CIP": "qSDJSqKLDq", "nombre": "Mariel", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-Q", "contador": "3461"},
+        { "CIP_SNS": "BBBBB12346", "CIP": "wSDJSwKLDw", "nombre": "Angela", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12341678-W", "contador": "3462"},
+        { "CIP_SNS": "BBBBB12347", "CIP": "eSDJSeKLDe", "nombre": "Héctor", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-E", "contador": "3463"},
+        { "CIP_SNS": "BBBBB12348", "CIP": "rSDJSrKLDr", "nombre": "Helena", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-R", "contador": "3464"},
+        { "CIP_SNS": "BBBBB12349", "CIP": "tSDJStKLDt", "nombre": "Isis", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-T", "contador": "3465"},
+        { "CIP_SNS": "BBBBB12350", "CIP": "ySDJSyKLDy", "nombre": "Penélope", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-Y", "contador": "3466"},
+        { "CIP_SNS": "BBBBB12351", "CIP": "uSDJSuKLDu", "nombre": "Ulises", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-U", "contador": "3467"},
+        { "CIP_SNS": "BBBBB12352", "CIP": "iSDJSiKLDi", "nombre": "Zeus", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-I", "contador": "3468"},
+        { "CIP_SNS": "BBBBB12353", "CIP": "oSDJSoKLDo", "nombre": "Alba", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-O", "contador": "3469"},
+        { "CIP_SNS": "BBBBB12354", "CIP": "pSDJSpKLDp", "nombre": "Alejandro", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-P", "contador": "3470"},
+        { "CIP_SNS": "BBBBB12355", "CIP": "aSDJSaKLDa", "nombre": "Ivan", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-A", "contador": "3471"},
+        { "CIP_SNS": "BBBBB12356", "CIP": "sSDJSsKLDs", "nombre": "Ana", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-S", "contador": "3472"},
+        { "CIP_SNS": "BBBBB12357", "CIP": "dSDJSdKLDd", "nombre": "Emma", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-D", "contador": "3473"},
+        { "CIP_SNS": "BBBBB12358", "CIP": "fSDJSfKLDf", "nombre": "Lucas", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-F", "contador": "3474"},
+        { "CIP_SNS": "BBBBB12359", "CIP": "gSDJSgKLDg", "nombre": "Manuel", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-G", "contador": "3475"},
+        { "CIP_SNS": "BBBBB12360", "CIP": "hSDJShKLDh", "nombre": "Mariana", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-H", "contador": "3476"},
+        { "CIP_SNS": "BBBBB12361", "CIP": "jSDJSjKLDj", "nombre": "Martin", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-J", "contador": "3477"},
+        { "CIP_SNS": "BBBBB12362", "CIP": "kSDJSkKLDk", "nombre": "Lucia", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-K", "contador": "3478"},
+        { "CIP_SNS": "BBBBB12363", "CIP": "lSDJSlKLDl", "nombre": "Bernardo", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-L", "contador": "3479"},
+        { "CIP_SNS": "BBBBB12364", "CIP": "zSDJSzKLDz", "nombre": "Raquel", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-Z", "contador": "3480"},
+        { "CIP_SNS": "BBBBB12365", "CIP": "xSDJSxKLDx", "nombre": "Samuel", "ap1": "Alvarez",  "ap2": "Ejemplo", "nif": "12345678-X", "contador": "3481"}
+      ]
+    }
+}
